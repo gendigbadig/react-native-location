@@ -1,0 +1,50 @@
+{
+  "_from": "react-native-location",
+  "_id": "react-native-location@0.27.0",
+  "_inBundle": false,
+  "_integrity": "sha1-jpIKe/vUtVgzAo8trWXtwSRJ1vU=",
+  "_location": "/react-native-location",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "react-native-location",
+    "name": "react-native-location",
+    "escapedName": "react-native-location",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-location/-/react-native-location-0.27.0.tgz",
+  "_shasum": "8e920a7bfbd4b55833028f2dad65edc12449d6f5",
+  "_spec": "react-native-location",
+  "_where": "/Users/gendigbadig/Development/zamrud/svara-ios-upgrade",
+  "bugs": {
+    "url": "https://github.com/timfpark/react-native-location/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Native GPS location support for React Native.",
+  "devDependencies": {
+    "react-native": "^0.27.0"
+  },
+  "homepage": "https://github.com/timfpark/react-native-location#readme",
+  "keywords": [
+    "react-native",
+    "react-component",
+    "ios",
+    "location"
+  ],
+  "license": "MIT",
+  "main": "RNLocation.ios.js",
+  "name": "react-native-location",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timfpark/react-native-location.git"
+  },
+  "version": "0.27.0"
+}
